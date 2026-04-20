@@ -73,3 +73,4 @@ logs/
 
 # OS-specific
 Thumbs.db
+.env
