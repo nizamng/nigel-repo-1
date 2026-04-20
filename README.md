@@ -1,2 +1,2 @@
-# Repo của Nigel - phiên bản LOCAL
-Dòng này được sửa từ máy local.
+# Repo của Nigel - phiên bản MERGED
+Dòng này đã được hợp nhất từ cả bản LOCAL và WEB.
