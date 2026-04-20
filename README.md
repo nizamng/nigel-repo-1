@@ -1,4 +1,2 @@
-## TODO
-- [ ] Học về branch
-- [ ] Học về merge conflict
-- [ ] Học về pull request
+# Repo của Nigel - phiên bản WEB
+Dòng này được sửa từ GitHub web editor.
