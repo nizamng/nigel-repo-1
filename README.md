@@ -1,2 +1,3 @@
 # nigel-repo-1
 Repo đầu tiên để học Git
+Hello Git! Đây là lần chỉnh sửa đầu tiên của tôi.
